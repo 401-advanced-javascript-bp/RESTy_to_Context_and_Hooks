@@ -1,5 +1,5 @@
 {
-  "name": "resty",
+  "name": "resty_context_to_hooks",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
